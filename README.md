@@ -7,5 +7,6 @@
 - ❤️‍🔥 Passionate about Distributed Systems, Database, Cloud Computing, and System Designs
 - 📫 Reach me at: tuanminhnguyen321@gmail.com
 
-![image](https://github.com/user-attachments/assets/c2eaab56-113e-41ff-92ec-78a643f9d469)
+![image](https://github.com/user-attachments/assets/a3c2d792-790d-43ea-94b2-1d2b3136cf01)
+
 
